@@ -2,11 +2,13 @@ This is Model only translated limited data present in "tulu_data.txt", it is in 
 
 Usage:
 	1: Run the tulu_main.py
-	2: Select [t/s] type or speak
+	2: Select [t/s] type or speak in English
 	3: Gives output in Tulu
 
 Libraries need to Install:
 you can use the following pip commands in your terminal
+
+open Terminal and Install:
 
 pip install asyncio
 pip install edge_tts
